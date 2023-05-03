@@ -1,0 +1,2 @@
+shift+bp=b,f+fk
+ctrl+fk=f,f,f+fp
